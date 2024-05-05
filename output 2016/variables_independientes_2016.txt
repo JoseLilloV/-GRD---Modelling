@@ -1,0 +1,17 @@
+Área.Cuidados.Intermedios.Adultos.Traslados
+Área.Cuidados.Intensivos.Adultos.Numero.de.Egresos
+Área.Obstetricia.Indice.de.Rotación
+X01090020
+X17051100
+X01030300
+Área.Obstetricia.Promedio.Días.de.Estada
+Área.Cuidados.Intensivos.Adultos.Letalidad
+Área.Cuidados.Intensivos.Adultos.Indice.de.Rotación
+X17070100
+X21220900
+X17050500
+X19180700
+X21800850
+X17A0702004
+X17C1707021
+X17A1802004
