@@ -1,0 +1,14 @@
+X01090020
+X01030300
+Área.Obstetricia.Indice.de.Rotación
+Área.Cuidados.Intensivos.Adultos.Numero.de.Egresos
+Área.Obstetricia.Traslados
+Área.Cuidados.Intensivos.Adultos.Letalidad
+X07020230
+Área.Cuidados.Intensivos.Adultos.Indice.de.Rotación
+Área.Neonatología.Cuidados.Intensivos.Letalidad
+X17A0302004
+X17051100
+X21220900
+X07020700
+X17A0801004
